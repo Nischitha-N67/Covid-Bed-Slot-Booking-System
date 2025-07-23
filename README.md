@@ -1,1 +1,1 @@
-# Covid-Bed-Slot-Booking-System
+A database-driven system designed to manage and automate the booking of hospital beds for COVID-19 patients. It stores and retrieves real-time data on bed availability, patient details, and hospital resources, ensuring efficient allocation and reduced manual effort.
